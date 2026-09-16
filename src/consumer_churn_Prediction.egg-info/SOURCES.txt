@@ -1,0 +1,11 @@
+pyproject.toml
+src/consumer_churn_Prediction.egg-info/PKG-INFO
+src/consumer_churn_Prediction.egg-info/SOURCES.txt
+src/consumer_churn_Prediction.egg-info/dependency_links.txt
+src/consumer_churn_Prediction.egg-info/requires.txt
+src/consumer_churn_Prediction.egg-info/top_level.txt
+src/packages/__init__.py
+src/packages/predict.py
+src/packages/preprocessing.py
+src/packages/train.py
+src/packages/utilities.py
