@@ -6,4 +6,7 @@ notebook/
     **/*.egg-info
 .cursor
 .DS_Store
+tests/
+.gitignore
+
 
